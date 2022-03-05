@@ -1,7 +1,85 @@
 # EDM Reviews
 
 ### Mar 4, 2022
-  
+
++ Above & Beyond, Mat Zo - Always Do
+
+Dark/chilling ambiance, great buildup near the middle
+
++ Bingo Players - State of Mind
+
+Electro house track, long wait for an energetic drop that goes back into MOGUAI's ACIID-style synths
+
++ Cheat Codes, Icona Pop - Payback
+
+Typical pop song, not super memorable or energetic
+
++ Cuebrick - Little Darling *
+
+Energetic future bounce-inspired drop with interesting sound design
+
++ Dimitri Vegas & Like Mike, R3HAB & Prezioso – Shooting Darts
+
+Uninspiring radio-friendly track with subdued slap house influences
+
++ Fedde Le Grand, Robert Falcon - Heaven (Club Mix)
+
+Track quickly leads into a surprising drop that although interesting does not really fit with the rest of the song. Could have been the basis for a separate track.
+
++ Jack Wins - Yes! (Dave Summit Remix)
+
+Vocals take center stage, somewhat club-friendly
+
++ Jeonghyeon - What think is cool *
+
+Energetic track, moving slightly away from Jeonghyeon's typical sound towards some new sounds. A welcome experiment.
+
++ KREAM - Pressure
+
+Stayed true to the sound that led to the success of Take Control, maybe even too similar, clear Meduza influences
+
++ Leandro da Silva - Crazy Mistake
+
+Club-friendly tune, nice melodic breakdown in the middle
+
++ Maddix - The Formula *
+
+Slightly repetitive vocals leading into a powerful driving techno drop
+
++ MorganJ, Maddow - Lose your Mind
+
+Overall well-produced, obvious contribution from MorganJ despite a slightly less aggressive drop than usual
+
++ NURKO, JT Roach - Spinnin' Wheels *
+
+Atmospheric melodic bass late-night tune, second drop packs more energy
+
++ REZZ, Subtronics - Puzzle Box *
+
+Eerie melody builds momentum before a typical REZZ-sounding bass drop that fits nicely with the rest of the track
+
++ Rudelies - Let me down
+
+Rudelies repeated their recipe at the drop except with a darker-sounding track, was hoping for a bit more at the second drop
+
++ Sofi Tukker, Mahmut Orhan - Forgive Me
+
+Emotional vocals over Latin-influenced instrumental with string melody, low danseability but powerful listening experience
+
++ Sunnery James & Ryan Marciano, QG – See
+
+Not the festival tune I expected, nice easy listen
+
++ Yves V - Imagine you & me
+
+Vocals from "Happy Together" borrowed for a version somewhere between slap house and future bounce but nothing too original
+
+#### Albums and EPs
++ Bob Moses - The Silence In Between (Album)
++ Diplo - Diplo (Album)
++ Krewella - The Body Never Lies (Album)
+
+
 ### Feb 25, 2022
   
   1. AC Slater, Curbi - Crave the Bassline
