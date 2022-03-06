@@ -74,11 +74,13 @@ Not the festival tune I expected, nice easy listen
 
 Vocals from "Happy Together" borrowed for a version somewhere between slap house and future bounce but nothing too original
 
-#### Albums and EPs
 + Bob Moses - The Silence In Between (Album)
-+ Diplo - Diplo (Album)
+
+Mostly stay true to the sound their fans are accustomed too, lead single "Time and Time Again" the highlight, "Hanging On" maybe the best new track, some more experimentation in "The Rush" and "Broken Belief"
+
 + Krewella - The Body Never Lies (Album)
 
+High-energy tracks ranging from drum'n'bass to dubstep, interesting sounds in "Traces" and "No Control"
 
 ### Feb 25, 2022
   
