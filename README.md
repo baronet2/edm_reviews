@@ -1,5 +1,63 @@
 # EDM Reviews
 
+### Mar 11, 2022
+
++ Angemi - Rock the Boat
+
+Danceable club-friendly house track, wished for more energy
+
++ Armin van Buuren x R3HAB - Love We Lost
+
+Festival-friendly bigroom energy, no real trance influence at all
+
++ Aspyer - Nobody
+
+Pop/trance sounding verse leads to tech house drop, string sounds typical of ASPYER introduced in second half of drop, but not dominant enough IMO
+
++ Dillon Francis, Vinne - Once again
+
+Unusual track focused on the drop where a repetitive synth note is joined by percussion
+
++ John Summit - La Danza
+
+Latin vocals meet tech house, nothing new until midway through the track or so with sounds echoing "Thing For You" by Solveig/Guetta
+
++ Malarkey - Cherub
+
+Happy piano house tune, but nothing too special
+
++ Quintino - Melody
+
+Catchy melody leads to a big room drop with hints of Future Bounce, little ingenuity
+
++ Siks, Janee - Belong *
+
+Interesting and effective fusion of contrasting sounds, Janee-style soothing verse leads to Siks-style drop
+
++ Stadiumx - Out of my Mind
+
+High-energy track with melodic and deep house influences
+
++ Vini Vici - Sweet Harmony
+
+Not a psy-trance track but brings an interesting blend of sounds, Melbourne shuffle influence in the second half
+
++ Alison Wonderland - New Day
+
+Low-key trap verses builds into slightly aggressive drop, added melodics in second drop make it an easier listen
+
++ Fisher & Shermanology - It’s A Killa
+
+Retro tech house, some of Fisher's eccentricity shines through
+
++ Leftwing:Kody - Mallet *
+
+Energetic tribal house song, highly danceable
+
++ NuBass - Wired
+
+Bass house song with tingling drop that gets a bit old despite attempted variations
+
 ### Mar 4, 2022
 
 + Above & Beyond, Mat Zo - Always Do
