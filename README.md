@@ -1,5 +1,71 @@
 # EDM Reviews
 
+### Mar 18, 2022
+
++ Bleu Clair - Mistake *
+
+Smooth house drop into pleasant string melody
+
++ Chocolate Puma - Frenzy *
+
+Bass house with industrial-sounding percussion at drop
+
++ Endor - El Cuervo
+
+Latin-inspired tune, Spanish vocals over house rhythm
+
++ HI-LO, Eli Brown - Industria
+
+Typical HI-LO sound especially at second drop, slightly darker vibe than usual, synths in middle section provide some variety
+
++ Joel Corry, David Guetta, Bryson Tiller – What Would You Do?
+
+Radio-friendly, Joel Corry's dance pop sound, not super memorable
+
++ Mabel x Jax Jones x Galantis - Good Luck
+
+Promising start with good vocals, picks up energy effectively, heavier Jax Jones influence, drop/chorus not energetic enough to make this a real hit
+
++ Matt Nash - Into the Light *
+
+Distinct Matt Nash sound, deep house inspiration but upbeat enough to keep you moving
+
++ Redondo - High on Emotion
+
+Lively piano house to keep sets energetic, not much experimentation but a proven formula. Reminds me of Martin Ikin - Ready To Dance
+
++ Sandro Silva - Bulldog
+
+Somewhere between big room and hardstyle but a slightly unusual drop that might be hard to dance to
+
++ Steve Aoki - Stop the World *
+
+Energetic but unaggressive drop, friendly for festival sets with the energy really going down in the verses for some recovery
+
++ Tujamo - Click
+
+Rap vocals over otherwise typical Tujamo vibes, nothing too special
+
++ Vintage Culture - Commotion *
+
+Vocalist from Faithless's singer, Vintage Culture's prototypical melodic/deep house sound that is dark yet carries good momentum
+
++ Afrojack, Chico Rose, Dubvision, Manse - Stay With You
+
+Typical festival progressive house buildup and vocals, nostalgic if unoriginal sound
+
++ DJ Fresh - Gold Dust (Fox Stevenson Remix) *
+
+Clean head-bopping drum-n-bass with simple melody, no complaints
+
++ Michael Sparks - Tell Me *
+
+Bass house, funky drop, vocal repetition slightly annoying, Zonderling-style sound in breaks
+
++ Kungs - Club Azur (Album)
+
+Exemplifies Kungs' groovy house/Nu Disco fusion sound, an easy listen though less variety than hoped for
+
 ### Mar 11, 2022
 
 + Angemi - Rock the Boat
