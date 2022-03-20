@@ -1,5 +1,9 @@
 # EDM Reviews
 
+My thoughts on recently-released electronic music. Songs marked with an asterisk (\*) are recommended.
+
+Maybe one day, when I have time to figure out how to use a relevant API for the song metadata, I'll throw this stuff into a dataset and see what can be done with it.
+
 ### Mar 18, 2022
 
 + Bleu Clair - Mistake *
