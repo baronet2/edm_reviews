@@ -4,6 +4,72 @@ My thoughts on recently-released electronic music. Songs marked with an asterisk
 
 Maybe one day, when I have time to figure out how to use a relevant API for the song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### Mar 25, 2022
+
++ Alesso - Only you
+
+Classic festival progressive house, vocals don't fit melody as well which makes the song less memorable
+
++ Dannic - Get over you
+
+String section in verses leads to light g-house drop
+
++ Jack Back - Feeling
+
+Tech house, good momentum, set-friendly
+
++ Jonas Blue, Sevenn - Angles
+
+Awkward shifts in sound at a few moments, not super high-energy but not really melodic either
+
++ MaRLo, Achilles - Nothing Is Left
+
+Bigroom trance, not sure how original it is
+
++ Martin Garrix & Zedd - Follow
+
+Martin Garrix going back to his older big room sound, vocals only introduced after first drop put focus on instrumental
+
++ Mike Williams - Pretty Little Words
+
+Gradual buildup of energy into a heavy future bounce drop that could have brought more creativity
+
++ Nicky Romero - Lose my Mind *
+
+Tech house with some interesting elements, atypical Nicky Romero track
+
++ Nora En Pure - Tribe of Kindness *
+
+Uplifting melodic house with nostalgic atmosphere, pleasant listen
+
++ Plastik Funk - Vroom Vroom
+
+Bass house drop that I find too aggressive because of an inadequate buildup
+
++ Sick Individuals - Maki
+
+Video-game sound turns into big room with unusual percussion-heavy drop
+
++ Timmy Trumpet, KSHMR - Ininna Tora
+
+Repetitive vocal, somewhere between big room and Melbourne bounce, nothing to see here
+
++ Voost - This Feeling *
+
+Piano house, upbeat uptempo drop
+
++ Yves V - Deja Vu
+
+Slap house, not much originality
+
++ Dom Dolla - Strangers (with Mansionair) (Tinlicker Remix) *
+
+Nice melodic take on Dom Dolla's tech house track, future rave influences but not aggressive
+
++ Firebeatz, Stefy De Cicco - Everybody's Got To Learn Sometime (Extended Mix) *
+
+Piano house verse with groovy bass house-style drop
+
 ### Mar 18, 2022
 
 + Bleu Clair - Mistake *
