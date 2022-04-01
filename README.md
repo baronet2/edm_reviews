@@ -4,6 +4,63 @@ My thoughts on recently-released electronic music. Songs marked with an asterisk
 
 Maybe one day, when I have time to figure out how to use a relevant API for the song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### Apr 1, 2022
+* Alok, Bastille - Run Into Trouble
+
+Radio-friendly pop track with groovy baseline and some more experimental sounds in the second half of the chorus
+
+* Curbi & Mike Cervello - Deja Vu *
+
+Base house with good variety from minimalist to more crowded-sounding parts in drop
+
+* Dimitri Vegas & Like Mike & Vini Vici & MATTN - Cafe Del Mar
+
+Psytrance remake of classic melody, no risks taken
+
+* Gryffin, One Republic - You Were Loved
+
+Decent radio-friendly pop track, acoustic and raw intro
+
+* Hardwell - Broken Mirror / Into The Unknown
+
+A spooky-sounding festival intro followed by a future rave track with a gradual buildup of energy
+
+* Jack Wins - Queen
+
+House beat with lyrics from Billy Ocean's Caribbean Queen repeated on top
+
+* Lucas & Steve, Marf - Give Me Your Love *
+
+Medley of Mike Williams and Avicii's sounds in Lucas & Steve's niche style
+
+* Martin Garrix, Mesto - Limitless *
+
+Mesto-sounding drop but with more bass house influence, festival-oriented but enjoyable in other settings too
+
+* Will Sparks - Say It Again *
+
+Somewhere between bass house and psytrance or bigroom, energy just right
+
+* Justin Mylo & Jay Mason - Used to be Better
+
+Future bounce track with confusingly aggressive sections
+
+* Julian Jordan & Alan Shirahama - Facts
+
+Julian Jordan's usual bass house song, nothing too special
+
+* Sofi Tukker - Kakee
+
+Western-sounding guitar riff underneath foreign lyrics, not super danceable
+
+* Flume & Caroline Polachek - Sirens *
+
+Very high vocals with Flume's unique sound design shining through, an unusual rhythm that is out-of-place at first but gradually brings the song together
+
+* Diplo & Miguel - Don't Forget My Love (John Summit Remix) *
+
+An energetic yet melodic house remix that I can see being played in a lot of sets
+
 ### Mar 25, 2022
 
 + Alesso - Only you
