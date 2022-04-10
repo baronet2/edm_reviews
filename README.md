@@ -4,6 +4,55 @@ My thoughts on recently-released electronic music. Songs marked with an asterisk
 
 Maybe one day, when I have time to figure out how to use a relevant API for the song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### Apr 8, 2022
+* Angemi - Hate you
+
+Dance pop, dominant vocals, some bass and synths, energy weirdly fades in second half of chorus
+
+* Armin van Buuren - Come around again
+
+Pop-sounding track but nice buildup to drop with slap house influences
+
+* Bingo Players - State of Mind (Guz Remix)
+
+Great buildup that ends a bit anticlimactically, good momentum throughout despite darker atmosphere
+
+* Habstrakt, Nitepunk - Point
+
+Bass house drop a bit too aggressive for my taste, especially the first one, but gets better
+
+* Julian Calor, Trøves - Find my way *
+
+Classic example of what Mo Falk would call "Colour house", the different buildup second time around adds a dimension
+
+* Marc Benjamin - Edge of Paradise
+
+Prototypical festival progressive house, found a suitable home at Protocal
+
+* Marnik - Across the Sun
+
+Slightly slowed-up Melbourne bounce/shuffle, nothing too special
+
+* Martin Garrix, Brooks - Quantum *
+
+Reminiscent of their classic collaborations, energetic drops, missing vocals or something else before first drop but interesting variation in sounds before second drop
+
+* Matroda - Wasting Time
+
+Piano house buildup leads to tech house drop, some bassy synths added in for ornamentation
+
+* ÖWNBOSS, Sevek - Move Your Body (Tiesto Edit)
+
+Tiesto's brand name slapped onto the song, with a few additions/changes to the original
+
+* RudeLies - Moundé
+
+Interesting venture into the deep house space
+
+* SMACK, Swanky Tunes - Ready or not *
+
+Energetic bass house drop, just wish they didn't use oversampled vocals in the breaks
+
 ### Apr 1, 2022
 * Alok, Bastille - Run Into Trouble
 
