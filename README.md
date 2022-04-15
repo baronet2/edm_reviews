@@ -2,7 +2,56 @@
 
 My thoughts on recently-released electronic music. Songs marked with an asterisk (\*) are recommended.
 
-Maybe one day, when I have time to figure out how to use a relevant API for the song metadata, I'll throw this stuff into a dataset and see what can be done with it.
+Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
+
+### Apr 15, 2022
+* Bruno Be - Soldiers
+
+Trap rhythm, dark atmosphere, nice buildup and Brazilian bass-y drop
+
+* Funkin Matt - Neo *
+
+Similar to Funkin Matt's other recent releases, unique sound while sticking to house beat
+
+* Guz - In my Bones
+
+Tech house, nice beat, thankfully some novel vocals
+
+* Hardwell - F\*cking Society
+
+Bigroom sound, wouldn't really anywhere but festival sets
+
+* Jay Hardway - My Sweet Heaven (Chill Mix)
+
+Soothing chorus vocals over piano slowed-down house melody
+
+* Justus - Tunnel
+
+Future rave with some experimentation with the rhythm, I find the buildup too noisy
+
+* Laidback Luke, Eva Simons - Flexin'
+
+House, not boring but not too memorable either, the second drop is a highlight
+
+* Martin Garrix, DubVision, Shaun Farrugia - Starlight (Keep Me Afloat)
+
+Martin Garrix maintains a string of solid releases, clear Dubvision influence in festival progressive house drop
+
+* Mr. Belt & Wezol - Genesis
+
+Almost slap house but leans towards Mr. Belt & Wezol's typical future house sound
+
+* NUZB & Noola - Like That
+
+Nothing wrong here, but feels too similar to NUZB's previous releases
+
+* Seth Hills - For U
+
+Hard to classify, maybe inaggressive bass house, energy somewhere between chill and festival
+
+* Seven Lions, Blastoyz - Reason for Fighting *
+
+Everything from psytrance to melodic trap thrown into one track, starts slow and unimposing, builds up to psytrance/hardstyle drop with some dubstep sounds introduced, brief before trap second drop and then a return to psytrance at the end
 
 ### Apr 8, 2022
 * Angemi - Hate you
