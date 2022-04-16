@@ -53,6 +53,10 @@ Hard to classify, maybe inaggressive bass house, energy somewhere between chill 
 
 Everything from psytrance to melodic trap thrown into one track, starts slow and unimposing, builds up to psytrance/hardstyle drop with some dubstep sounds introduced, brief before trap second drop and then a return to psytrance at the end
 
+* Swedish House Mafia - Paradise Again (Album) *
+
+Pop and rap interspersed with ventures into house, my favourite maybe Zonderling-inspired Time
+
 ### Apr 8, 2022
 * Angemi - Hate you
 
