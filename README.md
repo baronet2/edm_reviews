@@ -4,6 +4,79 @@ My thoughts on recently-released electronic music. Songs marked with an asterisk
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### Apr 22, 2022
+* Alesso & Zara Larsson - Words
+
+Pop dance, less focus on darker-sounding drop
+
+* Asketa & Natan Chaim - Somebody *
+
+Acoustic intro before progressive house with good momentum, would be even more effective without the lyrics from Gotye's Somebody That I Used To Know
+
+* AVIRA - Surrender
+
+Techno, somewhat industrial-sounding but mostly pleasant, nice vocals
+
+* Cheat Codes - Tell Me You Love Me
+
+Typical Brazilian Bass, pop vocals with bassline making the song danceable although not very energetic
+
+* Chico Rose - Losing my Religion
+
+Not an R.E.M. remake like I expected, midtempo dance pop
+
+* Dillon Francis, Valentino Khan - Move It *
+
+I Like To Move It melody turned into tech house, aggressive buildup stands out a bit too much, good variation with the vocals
+
+* Ferry Corsten - Timeout
+
+Well-known vocals, upbeat house with some nice synths
+
+* Firebeatz - Don't stop moving
+
+Firebeatz's unique synth sound, upbeat house, radio-friendly but not quite memorable enough to be a hit
+
+* Harris & Ford, Bassjackers - Psycho *
+
+Inspired by Melbourne Shuffle but surprisingly inaggressive for Bassjackers, good momentum but some sudden transitions
+
+* Maddix - Culture
+
+Driving techno tune with long pause at drop for suspense, slightly annoying repeated high note and weird transition halfway into more melodic section
+
+* Martin Garrix, Justin Mylo, Dewain Whitmore - Find You
+
+Great acoustic vocals, festival progressive house, change in atmosphere at drop a bit jarring
+
+* Nirvana - Something In The Way (Illenium Remix)
+
+A complete twist on the original Nirvana sound, buidlup development gives a sense of chaos, slow trap drop, not as melodic or ornamental as I might have liked
+
+* Ofenbach - 4U
+
+Pop dance, marginally danceable but improves with second drop
+
+* Oomloud - It's tricky
+
+Run-D.M.C's hit turned into a club-friendly house track
+
+* Steff da Campo - Hot in here (Öwnboss Remix)
+
+House original twisted into Brazilian bass drop
+
+* Swanky Tunes - Never look back
+
+Long intro before groovy radio-friendly beat
+
+* Valy Mo - Mess *
+
+Tech house, interesting start to drop, second drop turns towards a more techno-y vibe for a while
+
+* Vintage Culture & Goodboys - This Feeling
+
+Repetitive vocals, melodic house but not as atmospheric as Vintage Culture's recent hits 
+
 ### Apr 15, 2022
 * Bruno Be - Soldiers
 
