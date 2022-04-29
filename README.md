@@ -4,6 +4,68 @@ My thoughts on recently-released electronic music. Songs marked with an asterisk
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### Apr 29, 2022
+* Chemical Surf - Satisfied
+
+Sound reminds me of Vintage Culture, nice release of tension at the drop, don't like the vocals so much
+
+* Dirty Palm - Priorities
+
+Nice future house drop but transition slightly abrupt
+
+* EDX - Holy Wood
+
+Upbeat tribal house, nice percussions, vocals give way to energetic beat
+
+* Hardwell - Black Magic
+
+More bigroom techno/future rave from Hardwell
+
+* KREAM - Once again
+
+Similar style to previous releases except a bit of a darker vibe, low-energy but still danceable house
+
+* MK & Paul Woolford feat Majid Jordan - Teardrops
+
+Piano house, radio-friendly though the vocals at the drop could be more catchy
+
+* MPH, Katie Bosworth - Waiting *
+
+High tempo, bassy drop, unaggressive and danceable
+
+* Nicky Romero - Pressure
+
+Confusing bigroom-sounding start to drop quickly giving way back to uptempo tech house
+
+* NØ SIGNE - Selection
+
+Trap beat gives way to interesting drop, somewhat reminds me of Morgan J, interesting but lacking on cohesion
+
+* Raven & Kreyn x BIGMOO - Welcome To The Future (feat. Jeonghyeon) *
+
+High-energy release with some bass house influences, great fit for Hexagon, uninspiring lyrics one weak point
+
+* Steve Aoki, HRVY - Save Me
+
+Radio-friendly dance pop with Brazilian bass drop
+
+* Tiësto, Deorro - Savage
+
+Slight change to Five Hours' melody with new vocals, strings, bigger drop
+
+* Malaa - Wait (Kenty Clide remix) *
+
+Darker intro with big buildup and switchup at drop into house with cowbells?
+
+* Malaa - Wait (YYVNG remix)
+
+Interesting club-friendly take on the track, more housy and less aggressive drop, but synths in buildup kind of offputting
+
+* Martin Garrix - Sentio *
+
+One fantastic collaboration after another, references to a variety of Martin Garrix's bigroom sounds over the years, emotional finish in If We'll Ever Be Remembered, album is an instant classic
+
+
 ### Apr 22, 2022
 * Alesso & Zara Larsson - Words
 
