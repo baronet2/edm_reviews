@@ -1,6 +1,6 @@
 # EDM Reviews
 
-My thoughts on recently-released electronic music. Songs marked with an asterisk (\*) are recommended.
+My thoughts on recently-released electronic dance music. Songs/albums marked with an asterisk (\*) are recommended.
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
@@ -61,10 +61,9 @@ Darker intro with big buildup and switchup at drop into house with cowbells?
 
 Interesting club-friendly take on the track, more housy and less aggressive drop, but synths in buildup kind of offputting
 
-* Martin Garrix - Sentio *
+* Martin Garrix - Sentio (Album) *
 
 One fantastic collaboration after another, references to a variety of Martin Garrix's bigroom sounds over the years, emotional finish in If We'll Ever Be Remembered, album is an instant classic
-
 
 ### Apr 22, 2022
 * Alesso & Zara Larsson - Words
