@@ -4,6 +4,51 @@ My thoughts on recently-released electronic dance music. Songs/albums marked wit
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### May 6, 2022
+* Don Diablo - Day & Nite
+
+Atmospheric chill house with vocals from Kid Cudi's hit
+
+* Elephante, Sabai - Love Again
+
+Melodic future bass, pleasant vocals and energetic but not overbearing drop
+
+* Jonas Blue, Sam Feldt - Endless Summer *
+
+Progressive house, dark bassy drop, unexpected for Sam Feldt
+
+* Kygo - Freeze *
+
+Slow melodic piano intro before vocals over typical Kygo melody, interesting synth sound near drop as energy picks up
+
+* Mr. Belt & Wezol - New Millenium *
+
+House with sax riff, deep spoken word vocals, a mixed bag of sounds
+
+* NUZB - Get Down
+
+Mid-energy tech house gradually more ornamented by NUZB's trademark sounds
+
+* Oliver Heldens, Nile Rodgers, House Gospel Choir - I Was Made For Loving You
+
+Oliver Heldens' proven formula to turn a classic into a groovy future house tune
+
+* Robin Schulz & David Guetta - On Repeat
+
+Not the radio hit I expected nor a festival showstopper, low-key break before trance-influenced drop/chorus
+
+* SIKS & Le Pedre ft. Kris Kiss - Let It Out All
+
+Bassy bigroom with Kris Kiss' vocals
+
+* Solardo - So Far So Good
+
+Uptempo deep house with repeated synth melody
+
+* Will Clarke - Mirage
+
+Trancy intro but more techno-sounding drop with sounds suddenly stripped away
+
 ### Apr 29, 2022
 * Chemical Surf - Satisfied
 
