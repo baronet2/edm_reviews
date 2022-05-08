@@ -49,6 +49,14 @@ Uptempo deep house with repeated synth melody
 
 Trancy intro but more techno-sounding drop with sounds suddenly stripped away
 
+* Armin van Buuren & Shapov - Let's Rave, Make Love
+
+"Stop War, Let's Rave, Make Love" refrain repeated over bigroom trance synths
+
+* Armin van Buuren & Shapov - Welcome Home
+
+Very reminiscent of "Last Dancer", good track but not really original
+
 ### Apr 29, 2022
 * Chemical Surf - Satisfied
 
