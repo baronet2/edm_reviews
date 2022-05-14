@@ -4,6 +4,59 @@ My thoughts on recently-released electronic dance music. Songs/albums marked wit
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### May 13, 2022
+* Aly & Fila - Take Flight
+
+Solid progressive trance release, takes flight near the end
+
+* Armin van Buuren x Avira x Chicane - Offshore
+
+Melodic progressive house with dance pop-sounding drop except for the absence of vocals
+
+* Benny Benassi & Anabel Englund - Lightwaves
+
+Upbeat radio-friendly blend of deep house and pop, nice vocals
+
+* Chris Lake, Cloonee - Nightmares
+
+Dark techno with bass house influences and horror-sounding spoken word that I don't think add much
+
+* CID x Westend - Let Me Take You
+
+Tech house, good use of the vocals, but nothing too special or memorable
+
+* Galantis - 1 x 1
+
+House-influenced dance pop with some interesting percussion
+
+* Hardwell - Dopamine
+
+More future rave-inspired sounds from Hardwell
+
+* Illenium x Spiritbox - Shivering *
+
+Heavy rock meets melodic trap, long buildup until drop that maintains both genres
+
+* Janee, INAU - On My Mind *
+
+Pleasant and bright drop in Janee's usual style
+
+* John Summit - In Chicago *
+
+Tech house progression with dark atmosphere, some electro house influences later on, surprising underground sound from John Summit
+
+* KC Lights - Daydreamer with Leo Stannard
+
+House with nice guitar riff
+
+* Redondo, Malarkey & Galluxy - Never Stop
+
+Easy and groovy dance pop, sounds nicely stripped away at drop
+
+* Sevenn - Champagne & Pizza *
+
+Buildup of tension at drop before delayed release with nice riff, somewhere between Brazilian Bass and trance
+
 ### May 6, 2022
 * Don Diablo - Day & Nite
 
