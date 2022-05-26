@@ -4,6 +4,47 @@ My thoughts on recently-released electronic dance music. Songs/albums marked wit
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### May 20, 2022
+* Alok - The Club Is Jumpin' *
+
+House with some interesting festival-friendly sounds at the drop adding a nice twist
+
+* Brooks & Mo Falk - Take My Breath Away *
+
+Excellent energy with stripped-down yet greatly energetic drop, Mo Falk especially shines through
+
+* Frank Walker, Sam Feldt, Zak Abel - Madness
+
+Radio-friendly with slow Zonderling-inspired drop
+
+* Gabry Ponte, Vini Vici, Zafrir - Lo Nevosh
+
+Simple psytrance with Hebrew vocals
+
+* Henri PFR, Rozes, KSHMR - Bed *
+
+Radio-friendly dance pop, reasonably catchy, nice instrumentation adds tropical vibes
+
+* Lucas & Steve x RetroVision - Summer
+
+Typical Lucas & Steve future bounce sounds
+
+* Sigala & Talia Mar - Stay The Night
+
+Uptempo pop with Sigala's tropical house synths
+
+* Tchami & Marten Horger - The Calling
+
+Surprising piano house from Tchami
+
+* Biscits - I confess
+
+Tech house with slightly dark vibe
+
+* Firebeatz, Jay Hardway - No Good
+
+I'm pretty sure I've heard this song before...
+
 ### May 13, 2022
 * Aly & Fila - Take Flight
 
