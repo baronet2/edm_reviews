@@ -4,6 +4,59 @@ My thoughts on recently-released electronic dance music. Songs/albums marked wit
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### May 27, 2022
+* Armin van Buuren - Feel again *
+
+Reminiscent of Hollow Mask Illusion sound, nice string accompaniment and progressive house vibes
+
+* Calvin Harris ft. Dua Lipa & Young Thug - Potion
+
+Downtempo French house with radio-friendly vocals though chorus slightly unmemorable
+
+* CID - OOOOH
+
+Do It To It style vocals with pumping tech house drop
+
+* Curbi - Flying *
+
+Curbi shifts to a subdued melodic Kaskade-inspired sound before a more familiar bass house drop
+
+* Hardwell - GODD
+
+More future rave with spoken word vocals from Hardwell, production quality good but I'm struggling to keep track of all these releases
+
+* Julian Jordan & Siks - Juice *
+
+Bass house with squeaky(?) sounds providing some interesting experimentation
+
+* Julian Jordan - Rudeboy
+
+A big buildup to repetitive vocals, funky bass house drop
+
+* MorganJ - Too good
+
+Traditional MorganJ sound, too similar to Ma Luv for my taste
+
+* Marnik x Harris & Ford – Raindrop (feat. Shibui)
+
+Prototypical childish vocals before shuffle dance drop
+
+* Morgan Page & VINNE - On & On
+
+House with some interesting sounds, but not really sure where the energy fits
+
+* Tungevaag, Sick Individuals, Philip Strand - With My Friends
+
+Uplifting festival progressive house with tropical influences
+
+* VIZE & Dario Rodriguez - Who's Holding You ft. Lagique *
+
+Downtempo yet energetic house with Brazilian Bass sounds, easy listen, interesting way to use VIZE's slap house sound, good choice to avoid vocals
+
+* Dessic - Boss *
+
+Discovered on Hexagon Radio, low-key and dark buildup before excellent bass house drop with just enough novelty
+
 ### May 20, 2022
 * Alok - The Club Is Jumpin' *
 
