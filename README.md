@@ -4,6 +4,40 @@ My thoughts on recently-released electronic dance music. Songs/albums marked wit
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### Jun 6, 2022
+* Avicii - My Feelings for you (Don Diablo Remix) *
+
+Energetic remix in Don Diablo's classic future bounce style, second drop somewhat anticlimactic
+
+* Dastic - Wish we never met
+
+Progressive house with future bounce influence, devent vocals but not that memorable
+
+* Keanu Silva - Lovin' you
+
+Vocals and melody from Minii Riperton's song of the same name with confusing festival-ish sound
+
+* Lost Frequencies, James Arthur - Questions *
+
+Lost Frequencies sticks to successful style, good use of vocals as well
+
+* Mike Williams & Magnificence - Here for you
+
+Big future rave drop fit for mainstage
+
+* Moksi, Chocolate Puma - We are in this MF
+
+Somewhere between tech house and driving techno with Puma's traditional playful synths, unnecessarily aggressive use of lyrics IMO
+
+* SIDEPIECE, Lee Foss - 1, 2 Step *
+
+Tech house with good energy throughout, ornamentation keeps things interesting, transitions a little awkward
+
+* Yves V - She movin'
+
+Big buildup of tension into future rave drop with some deeper synths underneath adding some depth and club vibe
+
+
 ### May 27, 2022
 * Armin van Buuren - Feel again *
 
