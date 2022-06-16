@@ -4,7 +4,7 @@ My thoughts on recently-released electronic dance music. Songs/albums marked wit
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
-### Jun 6, 2022
+### Jun 3, 2022
 * Avicii - My Feelings for you (Don Diablo Remix) *
 
 Energetic remix in Don Diablo's classic future bounce style, second drop somewhat anticlimactic
