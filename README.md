@@ -4,6 +4,55 @@ My thoughts on recently-released electronic dance music. Songs/albums marked wit
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### Jun 10, 2022
+* Chico Rose - Scars
+
+Closer to slap house than deep house, familiar vocals
+
+* Deorro, Ally Brooke - La Cita
+
+Progressive house with pop vocals, no real buildup or release of energy
+
+* Kryder - Breathe deep *
+
+Melodic house with good energy from slowed-down trance synths
+
+* Liu, Sevek - Close To Me
+
+Lyrics a bit simple and out-of-tune with bass house drop in style of "Move Your Body" but not as energetic
+
+* Lucas & Steve x DubVision - Feel My Love (feat. Joe Taylor)
+
+Good use of lyrics, nice merger between styles of both artists, though the drop is a little boring
+
+* MALAA - How it is *
+
+Short intro, tech house with tribal percussion influence, upbeat energy but gets slightly repetitive
+
+* Mr. Belt & Wezol, BENDAH & LIMITED LIFE - I Feel Love *
+
+Samples Donna Summer's hit over energetic house beat, nice novelty near middle of track
+
+* Oliver Heldens, Tchami, Anabel Englund - Low
+
+Typical Oliver Heldens bass riff, nice track but was expecting more from this colab
+
+* Redondo - No Love, No Life
+
+Decent house song with groovy old school vibe, somewhat formulaic
+
+* Sonny Fodera - Better *
+
+Good progression with nice effects with vocals towards piano house drop
+
+* Tiësto - Lethal Industry (Maddix Remix) *
+
+Classic synths used surprisingly sparingly over driving techno, not too aggrressive, would fit in a lot of festival sets, solid all-around
+
+* Armin van Buuren feat. Wrabel - Feel Again *
+
+Emotional vocals, trance but slowed down and melancholic
+
 ### Jun 3, 2022
 * Avicii - My Feelings for you (Don Diablo Remix) *
 
