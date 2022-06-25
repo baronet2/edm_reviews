@@ -4,6 +4,55 @@ My thoughts on recently-released electronic dance music. Songs/albums marked wit
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### Jun 17, 2022
+* Alok, Ella Eyre & Kenny Dope ft. Never Dull - Deep Down *
+
+New vocals and several familiar samples blended together into accessible dance pop song
+
+* Bob Sinclar & Stadiumx - I'm Still In Love
+
+House with some piano house elements, nice medium energy
+
+* deadmau5 - XYZ *
+
+Instant deadmau5 classic, huge melodic intro, simple repetition of interval with thoughtful bassy progression
+
+* Duke & Jones - Lucid (Öwnboss Remix)
+
+Pop vocal turned into upbeat club track with interesting effect rhythms, a few sudden transitions in second half
+
+* DVBBS & Kideko & HAJ - Ride Or Die
+
+Deep slap house drop with eerie melody in second half of drop
+
+* IMANU - Temper Ft. Lia *
+
+Good vocals over colour house sound with echoes of Flume, good energy throughout
+
+* Mesto, Vluarr - Where do we go
+
+Eerie intro into uniquely Vluarr bass house drop interrupted by some Mesto synths, good blend of styles but not quite enough novelty
+
+* Noizu - Moon Groove *
+
+Tech house that leans towards driving techno, vocals play important role and bridge well between instrumental sections
+
+* Sick Individuals - Pull me through
+
+Traditional festival progressive house, not much novelty
+
+* Storgards - Miss You (Jody Wisternoff Remix)
+
+Nice deep house with no dominant melody, very close to original
+
+* Valy Mo - Free your Mind
+
+GOod intro gets pumping, unnecessary spoken word vocals before Malaa-inspired bass house drop
+
+* Vicetone - Barcelona Nights
+
+Latin inspiration to beat with nice instrumentation, reminiscent of KSHMR's recent works, but drop a bit out-of-place
+
 ### Jun 10, 2022
 * Chico Rose - Scars
 
