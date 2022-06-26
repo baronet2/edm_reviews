@@ -4,6 +4,55 @@ My thoughts on recently-released electronic dance music. Songs/albums marked wit
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### Jun 24, 2022
+* Alesso & Deniz Koyu - In My Feelings
+
+Sudden intro, more traditional Alesso sound, more of a club vibe than festival-leaning nor radio-friendly
+
+* ARTY - Where have you been
+
+Festival progressive with similar melody to Benny Benassi's "Beautiful People"
+
+* Deadmau5, Kaskade - Escape (Subtronics Remix)
+
+Original greatly sped up, before slowed down and (only?) slightly jarring dubstep drop
+
+* Diplo, bbno$ - Pogo
+
+Tech house with poppy intro, good energy
+
+* Fancy Inc, Dubdogz - Be with you
+
+Uptempo Brazilian bass with Fancy Inc signature guitar riff
+
+* Janee, Ruby - Hopeless
+
+Trap beat switches to a Janee colour house drop
+
+* Jauz, Habstrakt - Like before
+
+Slightly dissonant Jauz synths over Habstrakt tech house beat
+
+* Matroda - Be My Love
+
+Traditional Matroda sound, good energy
+
+* Matroda & David Herrlich - Feel Alive *
+
+Tech house with deeper synths, great buildup of energy at drop, nice effects with vocals
+
+* Plastik Funk & Rudeejay Feat. Crooked Bangs - Sideways *
+
+Energetic and interesting drop between bass and colour house, childish-sounding vocals one detractor
+
+* Siks, Henri PFR - Falling for you
+
+Radio-friendly guitar chords and vocals leads to dance pop drop with some Zonderling-inspired synths
+
+* Solardo x Vintage Culture x LOWES - Adidas & Pearls
+
+Good momentum, dirupted by interesting break in middle, before somewhat anticlimactic drop
+
 ### Jun 17, 2022
 * Alok, Ella Eyre & Kenny Dope ft. Never Dull - Deep Down *
 
