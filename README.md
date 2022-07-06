@@ -4,6 +4,51 @@ My thoughts on recently-released electronic dance music. Songs/albums marked wit
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### Jul 1, 2022
+* Aspyer - Pegasus
+
+Bass house drop with minor use of violin melodies
+
+* Brooks, Isabel Usher - Someday
+
+Darker bass house vibe than Brooks' usual sound, resembles many recent STMPD releases
+
+* Klingande - By Law
+
+Uplifting and upbeat drop with a melodic/tropical riff
+
+* Kygo, Dean Lewis - Never Really Loved Me
+
+Classic radio-friendly Kygo dance pop with tropical drop
+
+* Lucas & Steve x RetroVision - Summer Love (feat. Erich Lennig)
+
+Blend of styles leaning towards Lucas & Steve, short and simple verse
+
+* Mark Knight - All I Need
+
+Tech house with interesting synth progression filling void from no vocals
+
+* Nicky Romero, NIIKO x SWAE - Easy
+
+Summer dance pop with fitting vocals meets piano house
+
+* Oomloud - Music for your Mind *
+
+Surprising but effective bigroom driving techno release
+
+* Reinier Zonneveld, HI-LO - Flying Octopus *
+
+Another golden driving techno collaboration, less melodic and more ornamental
+
+* The Chainsmokers, Bob Moses - Why Can’t You Wait
+
+Weird intro to slow pop and few distinguishing features
+
+* Zeds Dead - i took a ride *
+
+Dark deep house with slow bassy riff and good effects, gradual pickup of energy
+
 ### Jun 24, 2022
 * Alesso & Deniz Koyu - In My Feelings
 
