@@ -4,6 +4,43 @@ My thoughts on recently-released electronic dance music. Songs/albums marked wit
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### Jul 8, 2022
+* Dillon Francis & Illenium (feat. EVAN GIIA) - Don't Let Me Let Go
+
+Pop-melodic trap fusion, nice drop but not show-stopping
+
+* Fox Stevenson - Enemy Brain
+
+Fast-paced indie rock vocals, drum-n-bass drop with unconventional elements
+
+* Goodboys - Jack Flip *
+
+Malaa-influenced bass house with future house bassy drop
+
+* Kygo & Dean Lewis - Lost Without You
+
+Atmospheric and nostalgic pop verses with slightly subdued and melodic drop
+
+* Loud Luxury – These Nights (feat. KIDDO)
+
+Nice buildup with lower-energy verse, decent bassy drop but nothing to write home about
+
+* Mike Williams - I said too much
+
+Classic Mike Williams track with big future bounce drop that doesn't quite blend with the rest of the song that well
+
+* Morgan Page – Somebody
+
+Distorted vocals over clap beat, interesting sounds at drop but song doesn't fit as one piece so well with sudden tempo changes
+
+* Wh0 - Show Me Your Love
+
+Piano house with deeper synth melody driving rhythm in the absence of vocal samples
+
+* Ummet Ozcan, Will Sparks – Apex *
+
+Mysterious with full and layered sounds, Ummet Ozcan's synths complement the driving techno bass
+
 ### Jul 1, 2022
 * Aspyer - Pegasus
 
