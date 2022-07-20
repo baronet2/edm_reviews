@@ -4,6 +4,28 @@ My thoughts on recently-released electronic dance music. Songs/albums marked wit
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### Jul 15, 2022
+* Armin van Buuren feat. Maia Wright – One More Time
+
+Festival progressive dance pop track, radio-friendly
+
+* Calvin Harris - Stay with Me (feat. Pharell, Justin Timberlake & Halsey)
+
+French house tune, variety of vocalists makes the song lack an identity
+
+* Dom Dolla - Miracle Maker *
+
+Synth riff makes this a catchy tech house tune, vocals add to "epic" energy
+
+* Kygo - Freeze (John summit remix)
+
+Very different take on the original, tech house with dark vibe and repeated vocal chop, second drop great release of tension
+
+* Aspyer - Baby *
+
+Quick buildup to bass house drop with faint inspiration from violin effects in "Melody" and colour house
+
+
 ### Jul 8, 2022
 * Dillon Francis & Illenium (feat. EVAN GIIA) - Don't Let Me Let Go
 
