@@ -4,6 +4,67 @@ My thoughts on recently-released electronic dance music. Songs/albums marked wit
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### Jul 22, 2022
+* Cat Dealers & Lukas Vane feat. Elise Legrow - Hey Hey (Heard You Say) *
+
+Brazilian bass with familiar vocals, good climax at drop
+
+* Cristoph feat. Ross Quinn - Turning Away *
+
+Nice deep and melodic progressive house, good use of vocals to create a mysterious atmosphere and fantastic buildup in second half of song
+
+* Diplo - Let You Go (Sebastian Ingrosso & Desembra Remix)
+
+Melodic house, nothing too special
+
+* DJ Kuba & Neitan - I want you (Wh0's Festival Remix)
+
+Not much originality, large buildup to upbeat house drop
+
+* Don Diablo, PNB Rock & Boaz - No Piensa
+
+Not a fan of this style of vocals, unusual sound from Don Diablo more reminiscent of Tiesto's recent releases
+
+* Fedde Le Grand - Shake That Ass *
+
+House with repetitive vocal sample, groovy synths at drop add some flavour
+
+* Laidback Luke - Conme Loco *
+
+Malaa-inspired bass house with slightly deeper sounds, good variation in second half of drop
+
+* Martin Ikin - Future
+
+Tech house with some synths that remind of James Hype's "Say Yeah"
+
+* MEDUZA, James Carter - Bad Memories (feat. Elley Duhé, FAST BOY)
+
+Pop vocals with Medusa's deep house twist, drop beat could be more danceable
+
+* Norsheep - Be the One *
+
+Future house with grimey bass under bouncier melody
+
+* Sevek - Bang Bang
+
+Bass house drop from Move Your Body thrown onto Baby Shot Me Down vocals, overall uncohesive
+
+* SMACK feat. Lovespeake - Make Me Feel
+
+Nice future rave, formulaic but well-produced, interesting change in energy midway through drop
+
+* Tempo Giusto - Spartan
+
+Uptempo hard trance with sound influenced by Jewelz & Sparks
+
+* Tungevaag - Love me anyway
+
+Radio-friendly dance pop with some tropical house influence
+
+* Rebuke - Dystopia
+
+Driving techno, some weird shifts in vibe
+
 ### Jul 15, 2022
 * Armin van Buuren feat. Maia Wright – One More Time
 
