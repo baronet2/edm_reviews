@@ -4,6 +4,43 @@ My thoughts on recently-released electronic dance music. Songs/albums marked wit
 
 Maybe one day, if I find time to figure out how to use a good API for song metadata, I'll throw this stuff into a dataset and see what can be done with it.
 
+### Jul 29, 2022
+* Bougenvilla - Nyma
+
+Trademark future house sound at drop, not much excitement elsewhere though
+
+* Calvin Harris, Normani, Tinashe, Offset - New To You
+
+Strings front and centre, chill pop tune
+
+* DVBBS, MKLA - Love till it's over
+
+DVBBS again change styles, moving to a driving techno track but keeping nice vocals from MKLA
+
+* Illenium ft. Teddy Swims - All that really matters
+
+Anotheer clean melodic trap release from Illenium
+
+* John Summit & GUZ - What A Life
+
+Nice synth chord progression, vocal fit confusing
+
+* Mike Williams - Pretty Little Words (Robbie Mendez Remix)
+
+Amped up festival-appropriate remix, hoping for more originality
+
+* NØ SIGNE - Ping Pong (Tell me)
+
+Interesting future rave track but synths get pretty annoying
+
+* Oliver Heldens, Piero Pirupa - We Don’t Need *
+
+Future house take keeping a lot of elements from Pink Floyd's classic but introducing typical OH bass line
+
+* Sander van Doorn, Laura van Dam - My Mind *
+
+Driving techno for the most part, some future rave influence near the end
+
 ### Jul 22, 2022
 * Cat Dealers & Lukas Vane feat. Elise Legrow - Hey Hey (Heard You Say) *
 
